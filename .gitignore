@@ -1,0 +1,6 @@
+/venv
+/data
+/src/config.py
+/scrip_conversao.txt
+/pg_cadastro.xlsx
+/__pycache__
