@@ -1,0 +1,72 @@
+2024-06-06 15:03:22,169 - ERROR - main.py - 76 - Erro ao conectar ao banco de dados: expected str, bytes or os.PathLike object, not NoneType
+2024-06-06 15:15:44,426 - ERROR - main.py - 76 - Erro ao conectar ao banco de dados: expected str, bytes or os.PathLike object, not NoneType
+2024-06-06 15:18:04,492 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:18:04,493 - INFO - main.py - 72 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:18:16,166 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:18:16,166 - INFO - main.py - 72 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:19:51,949 - INFO - data_processor.py - 235 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_PG_1.xlsx
+2024-06-06 15:19:52,064 - INFO - data_processor.py - 235 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_IP_1.xlsx
+2024-06-06 15:25:09,068 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:25:09,069 - INFO - main.py - 72 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:25:16,907 - INFO - data_processor.py - 235 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_GOIAS\FIR\Producao_PG.xlsx
+2024-06-06 15:25:16,967 - INFO - data_processor.py - 235 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_GOIAS\FIR\Producao_IP.xlsx
+2024-06-06 15:25:44,601 - INFO - data_processor.py - 242 - Conexão com o banco de dados fechada.
+2024-06-06 15:28:00,083 - ERROR - main.py - 76 - Erro ao conectar ao banco de dados: expected str, bytes or os.PathLike object, not NoneType
+2024-06-06 15:28:09,685 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:28:09,686 - INFO - main.py - 72 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:28:20,146 - INFO - data_processor.py - 235 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_PG_2.xlsx
+2024-06-06 15:28:20,252 - INFO - data_processor.py - 235 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_IP_2.xlsx
+2024-06-06 15:29:20,018 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:29:20,019 - INFO - main.py - 72 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:33:59,146 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:33:59,146 - INFO - main.py - 72 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 15:34:08,728 - INFO - data_processor.py - 235 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_PG.xlsx
+2024-06-06 15:34:08,845 - INFO - data_processor.py - 235 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_IP.xlsx
+2024-06-06 18:17:34,737 - ERROR - main.py - 79 - Erro ao conectar ao banco de dados: 'module' object is not callable
+2024-06-06 18:18:06,021 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:18:06,022 - INFO - main.py - 74 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:18:15,025 - INFO - data_processor.py - 250 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\MRE\Producao_PG_1.xlsx
+2024-06-06 18:18:15,101 - INFO - data_processor.py - 250 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\MRE\Producao_IP_1.xlsx
+2024-06-06 18:18:17,385 - INFO - data_processor.py - 257 - Conexão com o banco de dados fechada.
+2024-06-06 18:20:29,473 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:20:29,474 - INFO - main.py - 74 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:23:03,859 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:23:03,860 - INFO - main.py - 74 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:30:11,579 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:30:11,580 - INFO - main.py - 74 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:32:40,337 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:32:40,338 - INFO - main.py - 74 - Conexão com o banco de dados bem-sucedida!
+2024-06-06 18:32:50,927 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_PG_1.xlsx
+2024-06-06 18:32:51,043 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_IP_1.xlsx
+2024-06-06 18:32:51,150 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_CONSUMIDOR.xlsx
+2024-06-06 18:33:37,529 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\CAM\Producao_PG_1.xlsx
+2024-06-06 18:33:37,788 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\CAM\Producao_IP_1.xlsx
+2024-06-07 13:20:35,377 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 13:20:35,377 - INFO - main.py - 74 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 13:20:45,063 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_PG_2.xlsx
+2024-06-07 13:20:45,179 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_IP_2.xlsx
+2024-06-07 13:20:45,295 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_CONSUMIDOR_1.xlsx
+2024-06-07 13:20:53,648 - INFO - data_processor.py - 115 - Conexão com o banco de dados fechada.
+2024-06-07 13:36:00,480 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 13:36:00,482 - INFO - main.py - 74 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 13:36:24,026 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_PG_3.xlsx
+2024-06-07 13:36:24,141 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_IP_3.xlsx
+2024-06-07 13:36:24,251 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_CONSUMIDOR_2.xlsx
+2024-06-07 13:38:32,087 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\MRE\Producao_PG_2.xlsx
+2024-06-07 13:38:32,158 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\MRE\Producao_IP_2.xlsx
+2024-06-07 13:38:53,339 - INFO - data_processor.py - 31 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 13:38:53,339 - INFO - main.py - 74 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 13:39:35,838 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\CAM\Producao_PG_2.xlsx
+2024-06-07 13:39:36,117 - INFO - data_processor.py - 108 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\CAM\Producao_IP_2.xlsx
+2024-06-07 15:58:31,454 - INFO - data_processor.py - 38 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 15:58:31,455 - INFO - main.py - 60 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 15:58:44,533 - INFO - data_processor.py - 114 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_PG_4.xlsx
+2024-06-07 15:58:44,641 - INFO - data_processor.py - 114 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_IP_4.xlsx
+2024-06-07 15:58:44,751 - INFO - data_processor.py - 114 - DataFrame salvo em: C:/Users/Cliente/Documents/Projetos/db/data/output\EQUATORIAL_SUL\BAG\Producao_CONSUMIDOR_3.xlsx
+2024-06-07 15:59:01,490 - INFO - data_processor.py - 121 - Conexão com o banco de dados fechada.
+2024-06-07 16:27:21,581 - INFO - data_processor.py - 38 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 16:27:21,582 - INFO - main.py - 65 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 16:28:50,154 - INFO - data_processor.py - 38 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 16:28:50,156 - INFO - main.py - 59 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 16:48:09,638 - INFO - data_processor.py - 38 - Conexão com o banco de dados bem-sucedida!
+2024-06-07 16:48:09,639 - INFO - main.py - 61 - Conexão com o banco de dados bem-sucedida!
