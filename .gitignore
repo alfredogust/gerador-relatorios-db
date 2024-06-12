@@ -4,3 +4,6 @@
 /scrip_conversao.txt
 /pg_cadastro.xlsx
 /__pycache__
+/data_processor.log
+/dist/
+/main.spec
